@@ -28,8 +28,6 @@ There is another optional parameter, -stop_point, which is used to specify the n
 
 Last parameter is to specify the model name you'd use. One is DynamicClustering, the other is EvolutionaryClustering. 
 
-One input file and two output files are in the repository as samples for users. One of output file is one with all data , the other is one with setting stop_point parameter.
-
 ### Example
 If all tweets need to be processed, commend in terminal should be like this:
 
