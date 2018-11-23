@@ -45,13 +45,13 @@ Version 1.0
 
 ## Authors
 
-* **Jianheng Hou** - *Information Science Information* - [Jianheng Hou](https://www.linkedin.com/in/jianheng-hou-70130a154/)
+* **Jianheng Hou** - *Information Science Institute* - [Jianheng Hou](https://www.linkedin.com/in/jianheng-hou-70130a154/)
 
 * See also the other detalis or background of this project - [THOR](http://usc-isi-i2.github.io/thor/)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
