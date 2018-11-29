@@ -3,7 +3,7 @@ Unlike other offline clustering algorithms, models here are used to cluster twee
 
 ## Getting Started
 
-Models are implemented under python 2.7. There are some denpendency and packages needed before running it.
+Models are implemented under python 2.7.*. There are some denpendency and packages needed before running it.
 
 ### Prerequisites
 
