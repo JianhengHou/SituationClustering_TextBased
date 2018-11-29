@@ -40,7 +40,7 @@ class SituationClustering():
         self.model.kb_to_situation_clustering()
         print("--- Running time %s seconds ---" % (time.time() - start_time))
 
-
+# might need to be improved
 input_value = ''
 output_value = ''
 stopPoint = 0
