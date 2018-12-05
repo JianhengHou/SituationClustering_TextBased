@@ -26,7 +26,7 @@ The model takes .txt file, in which all data represents as json lines in time se
 
 There is another optional parameter, -stop_point, which is used to specify the number of tweets to be processed in the model. All tweets would be computed by default, if one do not want to set up stop point. 
 
-Last parameter is to specify the model name you'd use. One is [DynamicClustering], the other is [EvolutionaryClustering]. 
+Last parameter is to specify the model name you'd use: One is "DynamicClustering", the other is "EvolutionaryClustering". 
 
 ### Example
 If all tweets need to be processed, commend in terminal should be like this:
