@@ -1,4 +1,4 @@
-# Text Based Situation Clustering in Real-time
+# Text Based Situation Clustering on Real-time
 Unlike other offline clustering algorithms, models here are used to cluster tweets, messages, or texts during disasters in real-time. Tweets in different situations would be divided into their coressponding clusters based on the content of messages. At the end, one can do quiry on some tweets and to see related tweets in the same situation.
 
 ## Getting Started
